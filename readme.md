@@ -68,7 +68,7 @@ Nitrogen sets wallapaper of your desktop. To set wallapaper. execute in bash
 
 `nitrogen [name of folder]`
 
-Now select image you want to use and select 'Zoomed Fill'.
+Now select image you want to use and select 'Zoomed Fill'. I've added th wallpaper I've used 'Wallpaper.jpg'.
 
 ### Configure pcmanfm (if used)
 Right click on desktop to open menu there you can find option to configure.
