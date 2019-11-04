@@ -3,7 +3,7 @@
 How is the screenshot above? It almost look like KDE, isn't it? Have a look at ram usage its near 260MB. 
 
 ## Introduction
-KOpenbox is config files and method to setup lightweight and minimal good looking linux desktop. Config file are present in reposetory. 
+KOpenbox is a collection config files and method to setup lightweight and minimal good looking linux desktop. Config file are present in reposetory. 
 
 **Warning: I don't recommend to clone the whole reposetory in your home folder!**
 
