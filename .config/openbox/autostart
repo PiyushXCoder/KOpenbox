@@ -1,0 +1,33 @@
+# Restore background
+nitrogen --restore &
+
+# Set background
+# pcmanfm --desktop &
+
+# Compton
+compton &
+
+# Panel
+tint2 &
+
+# Desktop Widget 
+conky &
+
+# polkit 
+sleep 1 && /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+
+# Notification demon
+dunst &
+
+# Keyboard shortcut
+sxhkd &
+
+# Pulseaudio
+pa-applet &
+
+# Clipboard
+diodon &
+
+# Clipboard
+nm-applet &
+

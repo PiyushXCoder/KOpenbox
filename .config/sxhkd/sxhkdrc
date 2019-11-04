@@ -1,0 +1,8 @@
+Print
+    gnome-screenshot -i
+
+shift + Print
+	gnome-screenshot -f ~/Pictures/"Screenshot from $(date +"%F %H-%M-%S").png"
+
+super + grave
+    rofi -modi drun -show drun
