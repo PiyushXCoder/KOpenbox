@@ -105,7 +105,7 @@ Select `Zukitre-mod` as theme. `roboto Regular 10p` as Default font and `Papirus
 It is terminal emulator for us. Configuration for terminator is stored in `~/.config/terminator` .
 You can copy it as it is but if you wish you can change.
 
-### configure bash
+### Configure bash
 Configuration for terminator is stored in `~/.bashrc` .
 You can copy it as it is but if you wish you can change.
 
