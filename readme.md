@@ -37,7 +37,7 @@ I use(recommend) Arch Linux but everything will work on any distro.
  * Hack font
  * Cantarell font
 
-move `Zukitre-mod` to `~/.themes` or  `/usr/share/themes`
+move `Zukitre-mod`,`Arc`,`Arc-Dark`,`Arc-Darker` from themes to `~/.themes` or  `/usr/share/themes`
 
 ### Configure openbox
 Openbox is window manager. Configuration for openbox is stored in `~/.config/openbox`
@@ -52,7 +52,7 @@ You can copy it as it is. Menu is generated with obmenu-generator.
 
 #### `rc.xml` - configuration for openbox(right click) menu
 
-You can copy it as it is. You can configure it using obconf if you wish. If you are configuring it using obconf don't forget to select `Zukitre-mod`.
+You can copy it as it is. You can configure it using obconf if you wish. If you are configuring it using obconf don't forget to select `Zukitre-mod` or any of the `Arc` theme.
 
 ### Configure tint2
 Tint2 is panel. Configuration for tint2 is stored in `~/.config/tint2` . You can copy it as it is. If you wish to configure it, you can click right most corner of tint2 to open GUI tool to configure it.
@@ -99,7 +99,7 @@ Select `gtk2` as style, `roboto Regular 10p` as general font, `hack Regular 9` a
 
 ### Configure lxappearance
 It sets theme for gtk applications. Now launch lxappearance either from terminator or press <super\> + grave(`) and launch it from rofi drun.<br>
-Select `Zukitre-mod` as theme. `roboto Regular 10p` as Default font and `Papirus` as icons. 
+Select `Zukitre-mod` or any of the `Arc` theme as theme. `roboto Regular 10p` as Default font and `Papirus` as icons. 
 
 ### Configure terminator
 It is terminal emulator for us. Configuration for terminator is stored in `~/.config/terminator` .
@@ -123,6 +123,10 @@ Here is list of few softwares I'm using with KOpenbox. If you wish you can try a
 * Atril - Document Viewer (PDF)
 * lxtask - Task Manager 
 * hardinfo - Hardware and Software Infocenter
+
+![Alt text](Screenshot6.png)
+
+![Alt text](Screenshot5.png)
 
 ![Alt text](Screenshot2.png)
 
